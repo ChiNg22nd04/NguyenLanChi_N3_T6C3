@@ -1,6 +1,12 @@
+👋 Hi, I’m Chii, a third-year student at HUFLIT with a strong interest in Backend Developer.
+💞️ I’m always excited to learn and collaborate on new projects. 
+📫 Let’s connect on Facebook and LinkedIn!
 <div id="badges">
   <a href="https://www.linkedin.com/in/lan-chi-nguy%E1%BB%85n-856251316/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/elyzabellanchi">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
