@@ -1,4 +1,9 @@
 ## Overview
+
+<div id="header" align="center">
+  <img src="file:///Users/otot285/Downloads/bfc57c599dcf24917dde.jpg" width="100"/>
+</div>
+
 - 👋 Hi, I’m **Chii**, a third-year student at **HUFLIT** with a strong interest in Backend Development.
 - 💞️ I’m always excited to learn and collaborate on new projects.
 - 📫 Let’s connect on [Facebook](https://www.facebook.com/elyzabellanchi) and [LinkedIn](https://www.linkedin.com/in/lan-chi-nguy%E1%BB%85n-856251316/)!
