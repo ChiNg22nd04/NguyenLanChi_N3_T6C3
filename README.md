@@ -1,20 +1,19 @@
-
 # 👋 Hi, I’m **Chii**, a third-year student at **HUFLIT** with a strong interest in Backend Development.
 
 - 💞️ I’m always excited to learn and collaborate on new projects.
 - 📫 Let’s connect on [Facebook](https://www.facebook.com/elyzabellanchi) and [LinkedIn](https://www.linkedin.com/in/lan-chi-nguy%E1%BB%85n-856251316/)!
 
-## Nhóm 3 - Đề tài Quản Lý Khách Sạn
+## Group 3 - Hotel Management Project
 
-Dự án này được thực hiện bởi **nhóm 3** với mục tiêu phát triển một hệ thống quản lý khách sạn hiệu quả.
+This project is implemented by **Group 3** with the goal of developing an efficient hotel management system.
 
-### Nội dung chính của dự án
+### Main Content of the Project
 
-1. **Quản lý đặt phòng**: Cho phép người dùng đặt phòng trực tuyến và quản lý thông tin đặt phòng.
-2. **Quản lý khách hàng**: Lưu trữ và quản lý thông tin khách hàng, giúp dễ dàng theo dõi lịch sử lưu trú.
-3. **Quản lý dịch vụ**: Cung cấp các loại hình dịch vụ và tiện nghi cho khách hàng.
+1. **Booking Management**: Allows users to book rooms online and manage booking information.
+2. **Customer Management**: Stores and manages customer information, making it easy to track their stay history.
+3. **Service Management**: Provides various types of services and amenities for customers.
 
-## Công nghệ sử dụng
+## Technologies Used
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -28,6 +27,6 @@ Dự án này được thực hiện bởi **nhóm 3** với mục tiêu phát t
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-## Kết luận
+## Conclusion
 
-Cảm ơn bạn đã quan tâm đến dự án của chúng tôi! Chúng tôi hy vọng sẽ nhận được phản hồi và hỗ trợ từ bạn.
+Thank you for your interest in our project! We hope to receive feedback and support from you.
