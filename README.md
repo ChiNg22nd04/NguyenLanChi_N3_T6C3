@@ -1,13 +1,10 @@
-# Quản Lý Khách Sạn
 
-## Giới thiệu
-
-👋 Hi, I’m **Chii**, a third-year student at **HUFLIT** with a strong interest in Backend Development.
+# 👋 Hi, I’m **Chii**, a third-year student at **HUFLIT** with a strong interest in Backend Development.
 
 - 💞️ I’m always excited to learn and collaborate on new projects.
 - 📫 Let’s connect on [Facebook](https://www.facebook.com/elyzabellanchi) and [LinkedIn](https://www.linkedin.com/in/lan-chi-nguy%E1%BB%85n-856251316/)!
 
-## Nhóm 3
+## Nhóm 3 - Đề tài Quản Lý Khách Sạn
 
 Dự án này được thực hiện bởi **nhóm 3** với mục tiêu phát triển một hệ thống quản lý khách sạn hiệu quả.
 
