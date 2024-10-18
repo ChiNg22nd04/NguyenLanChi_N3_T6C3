@@ -1,10 +1,8 @@
-## Overview
-
 <div id="header" align="center">
   <img src="https://drive.google.com/uc?id=1ZSeY2fonQYT4DZfGTCZq1PlvwuaOmJCj" width=100%"/>
 </div>
 
-</div>
+## Overview
 
 - 👋 Hi, I’m **Chii**, a third-year student at **HUFLIT** with a strong interest in Backend Development.
 - 💞️ I’m always excited to learn and collaborate on new projects.
