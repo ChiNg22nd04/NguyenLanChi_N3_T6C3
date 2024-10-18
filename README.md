@@ -1,7 +1,7 @@
 ## Overview
 
 <div id="header" align="center">
-  <img src="https://drive.google.com/uc?id=1ZSeY2fonQYT4DZfGTCZq1PlvwuaOmJCj" width="50%"/>
+  <img src="https://drive.google.com/uc?id=1ZSeY2fonQYT4DZfGTCZq1PlvwuaOmJCj" width=100%"/>
 </div>
 
 </div>
