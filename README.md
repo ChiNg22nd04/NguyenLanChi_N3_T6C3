@@ -1,7 +1,7 @@
 ## Overview
 
 <div id="header" align="center">
-  <img src="file:///Users/otot285/Downloads/bfc57c599dcf24917dde.jpg" width="100"/>
+  <img src="https://drive.google.com/file/d/1K32qBPMTWKwsqNZpryNKewv3yebuMgz2/view?usp=drive_link" width="100"/>
 </div>
 
 - 👋 Hi, I’m **Chii**, a third-year student at **HUFLIT** with a strong interest in Backend Development.
